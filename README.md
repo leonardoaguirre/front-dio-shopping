@@ -1,3 +1,8 @@
+# Link para o repositorio da API Dio-Shopping
+[API-DIO-Shopping](https://github.com/leonardoaguirre/api-dio-shopping).
+
+## Projeto de API + front-end desenvolvido junto ao bootcampo da DIO Banco Inter front end Developer
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
